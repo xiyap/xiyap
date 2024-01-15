@@ -2,7 +2,7 @@
 
 👀 Interested in all things AI/ML
 
-🌱 An aspiring AI/ML practitioner
+🌱 Aspiring AI/ML practitioner
 
 ✨ [Portfolio](https://xiyap.github.io/)
 
